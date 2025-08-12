@@ -1,3 +1,3 @@
-const zachArray = ["Pink", "Yellow", "Green"]
+const zachArray = ["Pink", "Yellow", "Green", "Purple", "Black"]
 
 console.log(zachArray)
